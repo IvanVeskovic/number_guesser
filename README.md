@@ -1,2 +1,2 @@
 # number_guesser
-Guessing number
+Guessing number game with JavaScript
